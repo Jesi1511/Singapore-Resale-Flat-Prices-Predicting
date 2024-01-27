@@ -30,11 +30,9 @@ The objective of this study is to construct a machine learning regression model 
 The objective is to develop a Streamlit webpage that enables users to input values for each column and get the expected resale_price value for the flats in Singapore.
 
 **Output**
-
+http://localhost:8501/
 
 **Resale Price Predicting**
-
-**Resale Price Prediction**
 
 To predict the resale price of a Singapore Flats, follow these steps:
 
