@@ -1,0 +1,9 @@
+streamlit
+streamlit_option_menu
+pandas
+numpy
+geopy
+statistics
+requests
+json==2.0.9
+pickle
